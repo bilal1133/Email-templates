@@ -1,0 +1,2 @@
+# Email-templates
+## HTML templates
